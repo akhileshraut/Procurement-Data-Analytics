@@ -385,7 +385,7 @@ Add your Page 1 dashboard screenshot here.
 
 ```text
 Example:
-![Page 1 Dashboard](images/page1.png)
+![Page 1 Dashboard](https://github.com/akhileshraut/Procurement-Data-Analytics/blob/6be4acf7825e7a3e409f558dd34d88860d2a910d/Images/page1.PNG)
 ```
 
 ---
@@ -396,7 +396,7 @@ Add your Page 2 dashboard screenshot here.
 
 ```text
 Example:
-Images/page1.PNG
+![Page 2 Dashboard](https://github.com/akhileshraut/Procurement-Data-Analytics/blob/6be4acf7825e7a3e409f558dd34d88860d2a910d/Images/page2.PNG)
 ```
 
 ---
