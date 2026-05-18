@@ -385,7 +385,7 @@ Add your Page 1 dashboard screenshot here.
 
 ```text
 Example:
-![Page 1 Dashboard](images/page1.png)
+![Page 1 Dashboard](Images/page1.PNG)
 ```
 
 ---
