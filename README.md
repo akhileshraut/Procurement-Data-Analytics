@@ -396,7 +396,7 @@ Add your Page 2 dashboard screenshot here.
 
 ```text
 Example:
-![Page 2 Dashboard](images/page2.png)
+Images/page1.PNG
 ```
 
 ---
