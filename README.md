@@ -1,4 +1,4 @@
-# Procurement Data Analytics
+# Procurement Data Analytics Dashboard
 
 ## Overview
 
@@ -374,6 +374,41 @@ Potential future improvements include:
 Akhilesh Raut
 
 Data Analyst | Power BI Developer | Procurement Analytics Enthusiast
+
+---
+
+# Dashboard Preview
+
+## Page 1 — Executive Procurement Overview
+
+Add your Page 1 dashboard screenshot here.
+
+```text
+Example:
+![Page 1 Dashboard](images/page1.png)
+```
+
+---
+
+## Page 2 — Supplier & Compliance Deep-Dive
+
+Add your Page 2 dashboard screenshot here.
+
+```text
+Example:
+![Page 2 Dashboard](images/page2.png)
+```
+
+---
+
+# YouTube Walkthrough
+
+Add your Power BI dashboard walkthrough or demo video link here.
+
+```text
+Example:
+https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
+```
 
 ---
 
