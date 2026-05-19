@@ -392,9 +392,9 @@ Example:
 
 ---
 
-# YouTube Walkthrough
+# Video Walkthrough
 
-https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
+https://drive.google.com/file/d/1GZnjy2Qh3MDuTVa8GfUrEKYvkfcx82U7/view
 
 ---
 
